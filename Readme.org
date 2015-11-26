@@ -1,26 +1,23 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:59:05.766063
-#+TITLE: 健拏標訶一乘修行者秘密義記
-#+PROPERTY: CBETA_ID F28n1084
-#+PROPERTY: ID KR6e0162
-#+PROPERTY: SOURCE Fangshan shijing Vol. 28, No. 1084
-#+PROPERTY: VOL 28
-#+PROPERTY: BASEEDITION F
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 健拏標訶一乘修行者秘密義記 / CBETA
+#+DATE: 2015-11-26 20:44:41.263044
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         F|【房山石徑】  |
 
-<pb:KR6e0162_F_000-0628a>¶
-
-[[file:KR6e0162_001.txt::001-0628a3][義記緣起]]
-[[file:KR6e0162_001.txt::0630a1][總相]]
-[[file:KR6e0162_001.txt::0630a10][別相]]
-[[file:KR6e0162_001.txt::0630a15][白蓮藏]]
-[[file:KR6e0162_001.txt::0630a18][赤蓮藏]]
-[[file:KR6e0162_001.txt::0630b5][青蓮藏]]
-[[file:KR6e0162_001.txt::0630b9][黃蓮藏]]
-[[file:KR6e0162_001.txt::0630b12][黑蓮藏]]
-[[file:KR6e0162_001.txt::0630b23][緣起法界]]
-[[file:KR6e0162_001.txt::0631a9][緣起陀羅尼一]]
-[[file:KR6e0162_001.txt::0631a16][緣起陀羅尼二]]
-[[file:KR6e0162_001.txt::0631b25][五教始終]]
-[[file:KR6e0162_001.txt::0633a1][十八錢輪]]
-[[file:KR6e0162_001.txt::0633a26][正證法界印]]
+* 目次
+* [[file:KR6e0162_001.txt::001-0628a3][義記緣起]]
+* [[file:KR6e0162_001.txt::0630a1][總相]]
+* [[file:KR6e0162_001.txt::0630a10][別相]]
+* [[file:KR6e0162_001.txt::0630a15][白蓮藏]]
+* [[file:KR6e0162_001.txt::0630a18][赤蓮藏]]
+* [[file:KR6e0162_001.txt::0630b5][青蓮藏]]
+* [[file:KR6e0162_001.txt::0630b9][黃蓮藏]]
+* [[file:KR6e0162_001.txt::0630b12][黑蓮藏]]
+* [[file:KR6e0162_001.txt::0630b23][緣起法界]]
+* [[file:KR6e0162_001.txt::0631a9][緣起陀羅尼一]]
+* [[file:KR6e0162_001.txt::0631a16][緣起陀羅尼二]]
+* [[file:KR6e0162_001.txt::0631b25][五教始終]]
+* [[file:KR6e0162_001.txt::0633a1][十八錢輪]]
+* [[file:KR6e0162_001.txt::0633a26][正證法界印]]
+* 卷
+** [[file:KR6e0162_001.txt][健拏標訶一乘修行者秘密義記 1]]
